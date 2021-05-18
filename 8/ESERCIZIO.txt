@@ -1,0 +1,2 @@
+Creare un pagina con quattro quadrati ognuno di un colore differente (tra rosso, giallo, blu e verde). Al click del quadrato cambiare il colore del background della pagina che ospita i quadrati utilizzando il colore del box cliccato.
+Al caricamento della pagina la posizione dei quattro colori deve variare.

@@ -1,0 +1,7 @@
+Se elenchiamo tutti i numeri naturali inferiori a 10 che sono multipli di 3 o 5, otteniamo 3, 5, 6 e 9. La somma di questi multipli è 23.
+
+Trova la somma di tutti i multipli di 3 o 5 sotto 1000.
+
+Regole: 
+    Usare i metodi filter,map e reduce non sono ammessi loop (for,while eccc)
+    Generare l'array con la classe Array utilizando il metodo .keys della classe Array

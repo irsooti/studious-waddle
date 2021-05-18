@@ -1,0 +1,6 @@
+Dato un array verificare la presenza di duplicati e restituire un output booleano a video.
+
+Esempio:
+
+hasDuplicates([1,2,3,4,2,2]) // Result: true
+hasDuplicates([1,2,3,4]) // Result: false

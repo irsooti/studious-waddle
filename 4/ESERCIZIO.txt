@@ -1,0 +1,3 @@
+Crea due pagine home e about. 
+La pagina about deve essere caricata con il lazy loading -> React.lazy. 
+L'app deve avere una navigazione creata utilizzando https://reactrouter.com/.

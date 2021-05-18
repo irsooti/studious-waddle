@@ -1,0 +1,5 @@
+Creare un form utilizzando il modulo React Hook Form (https://react-hook-form.com/). Il form deve contenere i seguenti campi : nome, cognome, data di nascita, sesso, città, password, 
+conferma password. 
+Validare la presenza di nome, cognome, data di nascita, password e conferma password
+Validare la lunghezza della password min 8 caratteri
+Validare il conferma password verificando che combaci con la password

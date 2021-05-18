@@ -1,0 +1,4 @@
+Conta il numero di occorrenze all'interno di una stringa
+
+numberOfOccurrences('aaabbccddefg') // Result: {a: 3, b: 2, c: 2, d: 2, e: 1, f: 1, g: 1}
+numberOfOccurrences('abc') // Result: { a: 1, b: 1, c: 1 }

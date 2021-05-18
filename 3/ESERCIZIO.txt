@@ -1,0 +1,19 @@
+Indicizza i valori in base ad una proprietà.
+
+index(
+    [
+        { marca: 'fiat', modello: 'punto' },
+        { marca: 'fiat', modello: 'bravo' },
+        { marca: 'lancia', modello: 'delta' },
+        { marca: 'ferrari', modello: 'testa rossa' }
+    ],
+    'marca'
+    )
+
+Output
+
+    {
+        'fiat': [ { marca: 'fiat', modello: 'punto' },{ marca: 'fiat', modello: 'bravo' }],
+        'lancia': [{ marca: 'lancia', modello: 'delta' }],
+        'ferrari': [{ marca: 'ferrari', modello: 'testa rossa' }]
+    }

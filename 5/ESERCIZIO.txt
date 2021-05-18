@@ -1,0 +1,4 @@
+Verificare se le due stringhe hanno la stessa frequenza di lettere (contare se il numero della stessa lettera e' lo stesso per entrambe le parole).
+
+sameFrequency('aamario','marioaa') // Result: true
+sameFrequency('abbafabba','abbafa') // Result: false
