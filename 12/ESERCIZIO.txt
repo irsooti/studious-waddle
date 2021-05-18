@@ -1,0 +1,3 @@
+Fare una chiamata GET verso un endpoint e mostrare l'immagine restituita
+- L'endpoint da richiamare è questo: https://thatcopy.pw/catapi/rest/
+- Prevedere un loader iniziale
